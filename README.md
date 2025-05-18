@@ -334,7 +334,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Bergson - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/sas-bergson/TripBook](https://github.com/sas-bergson/TripBook)
 
@@ -371,7 +371,7 @@ Project Link: [https://github.com/sas-bergson/TripBook](https://github.com/sas-b
 [license-url]: https://github.com/sas-bergson/TripBook/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/your-linkedin
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://images.pexels.com/photos/32099220/pexels-photo-32099220.jpeg?cs=srgb&dl=pexels-unknown_entity-2151399066-32099220.jpg&fm=jpg
 [Kotlin]: https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white
 [Kotlin-url]: https://kotlinlang.org/
 [Jetpack-Compose]: https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white
